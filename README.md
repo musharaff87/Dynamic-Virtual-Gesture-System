@@ -9,15 +9,21 @@ Our project which applies gesture recognition as a topic which comes under two c
 The algorithm is focused on deep learning for detecting the gestures. Hence, the proposed system will avoid pandemic situation of COVID-19 spread by reducing the human interaction with the devices to control the system.
 
 
-#System Architecture
+
+
+# System Architecture
+
+
 ![image](https://user-images.githubusercontent.com/79743499/185775884-1d65d1ff-b27b-4a8b-99a8-a1ac98477ab7.png)
 
 
-#Module Description
+
+
+# Module Description
 
 We have devised a smart framework for creating a virtual interface in this paper. As the cases of covid-19 are decreasing maximum public places are opening with half or full capacity. ATMs are always open. If we install this system in the public places like ticket counters, ATMs and computerized docking facilities, the spread of germs, bacteria, and viruses can be greatly reduced. The block diagram of the developed framework is depicted
-+1. Hand Detection In this module, the main focus is access the webcam and allow the program to access the hand images. 
-+2. Gesture Detection and Recognition In this module, the accessed images are analysed and the movements and the significant gestures are noted and stored. 
-+3. Accessing The Database To Check Verify Gesture In this module, the recorded gestures and movements are cross-checked with the pre- programmed gestures and movements to facilitate the program functioning 
-+4. Desired Actions Occur In this module, the cross-checked gestures are triggered to perform the preprogramed actions like moving cursor, scrolling, clicking, double clicking, etc.. 
-+5. Help From Voice Assistance In this module, we create a voice assistant to facilitate and help us use the virtual interface more efficiently and safely. It can also perform many other basic functions
++ 1. Hand Detection In this module, the main focus is access the webcam and allow the program to access the hand images. 
++ 2. Gesture Detection and Recognition In this module, the accessed images are analysed and the movements and the significant gestures are noted and stored. 
++ 3. Accessing The Database To Check Verify Gesture In this module, the recorded gestures and movements are cross-checked with the pre- programmed gestures and movements to facilitate the program functioning 
++ 4. Desired Actions Occur In this module, the cross-checked gestures are triggered to perform the preprogramed actions like moving cursor, scrolling, clicking, double clicking, etc.. 
++ 5. Help From Voice Assistance In this module, we create a voice assistant to facilitate and help us use the virtual interface more efficiently and safely. It can also perform many other basic functions
