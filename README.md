@@ -1,2 +1,0 @@
-# Dynamic Virtual Gesture System
- 
